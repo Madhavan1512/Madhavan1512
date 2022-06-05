@@ -6,7 +6,19 @@
 ![](https://komarev.com/ghpvc/?username=Madhavan1512&style=for-the-badge)<br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=Madhavan1512&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)<br>
 <p align="left"> <a href="https://twitter.com/MadhavanSowrir1" target="blank"><img src="https://img.shields.io/twitter/follow/MadhavanSowrir1?logo=twitter&style=for-the-badge" alt="MadhavanSowrir1" /></a> </p><br>
+ 
+- 🔭 I’m currently working on **J.C. Innovations**
 
+- 🌱 I’m currently learning **AR,VR,C# and Content Creator for XR-Technology**
+
+- 👯 I’m looking to collaborate on **Creativeabhi13**
+
+- 👨‍💻 All of my projects are available at [https://creativeabhi13.github.io/](https://creativeabhi13.github.io/)
+
+- 📫 How to reach me **https://abhishekkumar-portfolio.github.io/Portfolio/**
+
+- 📄 Know about my experiences ([https://drive.google.com/file/d/1mfKyLurP5i2YSfT7VklH0oIpjRhtue-k/view?usp=sharing](https://drive.google.com/file/d/1_KJHLEcVH9B1Y0zTME05gsa90C-eWjhU/view?usp=sharing))
+ 
  <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/creativeabhi13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="creativeabhi13" height="30" width="40" /></a>
@@ -29,15 +41,9 @@
 [![Madhavan's github stats](https://github-readme-stats.vercel.app/api?username=Madhavan1512&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)<br>
 [![Madhavan's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Madhavan1512&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)<br>
 [![Madhavan's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Madhavan1512&theme=blue-white)](https://github.com/DenverCoder1/github-readme-streak-stats)<br>
-<a class="github-button" href="https://github.com/Madhavan1512" data-color-scheme="no-preference: light; light: light; dark: light;" aria-label="Follow @Madhavan1512 on GitHub">Follow @Madhavan1512</a><br>
-  <h3><b>Connect With Me</b></h3><br>
-<a href=”https://www.linkedin.com/in/madhavan-sowrirajan-252202191"><img align=”left” src=”https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt=”icon | LinkedIn” width=”21px”/></a>
 
-- 👀 I’m interested in ...<br>
-- 🌱 I’m currently learning ...<br>
-- 💞️ I’m looking to collaborate on ...<br>
-- 📫 How to reach me ...<br>.
-  
+
+
 
 
 
