@@ -11,7 +11,7 @@
 [![Madhavan's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Madhavan1512&theme=blue-white)](https://github.com/DenverCoder1/github-readme-streak-stats)<br>
 <a class="github-button" href="https://github.com/Madhavan1512" data-color-scheme="no-preference: light; light: light; dark: light;" aria-label="Follow @Madhavan1512 on GitHub">Follow @Madhavan1512</a><br>
   <h3><b>Connect With Me</b></h3><br>
-[Twitter]https://twitter.com/MadhavanSowrir1
+<a href=”https://www.linkedin.com/in/madhavan-sowrirajan-252202191"><img align=”left” src=”https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>
 
 - 👀 I’m interested in ...<br>
 - 🌱 I’m currently learning ...<br>
