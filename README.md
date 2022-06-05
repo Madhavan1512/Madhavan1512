@@ -6,7 +6,7 @@
 ![](https://komarev.com/ghpvc/?username=Madhavan1512&style=for-the-badge)<br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=Madhavan1512&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)<br>
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/MadhavanSowrir1.svg?style=social&label=Follow%20%40MadhavanSowrir1)](https://twitter.com/MadhavanSowrir1)<br>
-[![Madhavan's github stats](https://github-readme-stats.vercel.app/api?username=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![Madhavan's github stats](https://github-readme-stats.vercel.app/api?username=Madhavan1512&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
   - 👀 I’m interested in ...<br>
 - 🌱 I’m currently learning ...<br>
 - 💞️ I’m looking to collaborate on ...<br>
