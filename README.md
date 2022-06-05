@@ -7,11 +7,11 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Madhavan1512&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)<br>
 <p align="left"> <a href="https://twitter.com/MadhavanSowrir1" target="blank"><img src="https://img.shields.io/twitter/follow/MadhavanSowrir1?logo=twitter&style=for-the-badge" alt="MadhavanSowrir1" /></a> </p><br>
  
-- 🔭 I’m currently working on **J.C. Innovations**
+- 🔭 I’m currently working on **Data Analysis and Database Administration**
 
-- 🌱 I’m currently learning **AR,VR,C# and Content Creator for XR-Technology**
+- 🌱 I’m currently learning **MySQL , Python , JAVA , C# , R ,Matlab**
 
-- 👯 I’m looking to collaborate on **Creativeabhi13**
+- 👯 I’m looking to collaborate on **Madhavan1512**
 
 - 👨‍💻 All of my projects are available at [https://creativeabhi13.github.io/](https://creativeabhi13.github.io/)
 
@@ -21,16 +21,13 @@
  
  <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/creativeabhi13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="creativeabhi13" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/creativeabhi13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="creativeabhi13" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/story/creativeabhi13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="creativeabhi13" height="30" width="40" /></a>
-<a href="https://fb.com/creativeabhi13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="creativeabhi13" height="30" width="40" /></a>
-<a href="https://instagram.com/creativeabhi13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="creativeabhi13" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/creativeabhi13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="creativeabhi13" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/creativeabhi13" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="creativeabhi13" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/creativeabhi13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="creativeabhi13" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/creativeabhi13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="creativeabhi13" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/creativeabhi13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="creativeabhi13" height="30" width="40" /></a>
+<a href="https://twitter.com/MadhavanSowrir1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Madhavan1512" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/madhavan-sowrirajan-252202191/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Madhavan1512" height="30" width="40" /></a>
+<a href="https://fb.com/madhavan.sowrirajan.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Madhavan1512" height="30" width="40" /></a>
+<a href="https://instagram.com/_guileless_me_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Madhavan1512" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/crackthebuzzwork" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Madhavan1512" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/maddy_codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Madhavan1512" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/maddy4mar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="Madhavan1512" height="30" width="40" /></a>
 <a href="https://discord.gg/creativeabhi13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="creativeabhi13" height="30" width="40" /></a>
 </p>
 
