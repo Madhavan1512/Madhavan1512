@@ -9,8 +9,8 @@
 [![Madhavan's github stats](https://github-readme-stats.vercel.app/api?username=Madhavan1512&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)<br>
 [![Madhavan's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Madhavan1512&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)<br>
 [![Madhavan's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Madhavan1512&theme=blue-white)](https://github.com/DenverCoder1/github-readme-streak-stats)<br>
-<a class="github-button" href="https://github.com/Madhavan1512" aria-label="Follow @Madhavan1512 on GitHub">Follow @Madhavan1512</a><br>
-  - 👀 I’m interested in ...<br>
+<a class="github-button" href="https://github.com/Madhavan1512" data-color-scheme="no-preference: light; light: light; dark: light;" aria-label="Follow @Madhavan1512 on GitHub">Follow @Madhavan1512</a><br>
+- 👀 I’m interested in ...<br>
 - 🌱 I’m currently learning ...<br>
 - 💞️ I’m looking to collaborate on ...<br>
 - 📫 How to reach me ...<br>
