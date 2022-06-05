@@ -7,7 +7,9 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Madhavan1512&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)<br>
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/MadhavanSowrir1.svg?style=social&label=Follow%20%40MadhavanSowrir1)](https://twitter.com/MadhavanSowrir1)<br>
 [![Madhavan's github stats](https://github-readme-stats.vercel.app/api?username=Madhavan1512&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)<br>
-[![Madhavan's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Madhavan1512&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
+[![Madhavan's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Madhavan1512&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![Madhavan's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Madhavan1512&theme=blue-white)](https://github.com/DenverCoder1/github-readme-streak-stats)<br>
+[![Madhavan Sparkline](https://stars.medv.io/Madhavan1512/badges.svg)](https://stars.medv.io/Naereen/badges)<br>
   - 👀 I’m interested in ...<br>
 - 🌱 I’m currently learning ...<br>
 - 💞️ I’m looking to collaborate on ...<br>
