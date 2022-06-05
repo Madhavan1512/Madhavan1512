@@ -11,8 +11,6 @@
 
 - 🌱 I’m currently learning **MySQL , Python , JAVA , C# , R ,Matlab**
 
-- 👯 I’m looking to collaborate on **Madhavan1512**
-
 - 👨‍💻 All of my projects are available at [https://Madhavan1512.github.io/](https://Madhavan1512.github.io/)
 
 - 📫 How to reach me **https://Madhavan1512-portfolio.github.io/Portfolio/**
