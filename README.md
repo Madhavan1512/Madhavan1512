@@ -5,7 +5,7 @@
 ![phpNyCsp5PM](https://user-images.githubusercontent.com/45940540/172034886-981991d2-f0a3-4950-b3d5-dc23765f636b.jpg)<br>
 ![](https://komarev.com/ghpvc/?username=Madhavan1512&style=for-the-badge)<br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=Madhavan1512&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)<br>
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/MadhavanSowrir1.svg?style=social&label=Follow%20%40MadhavanSowrir1)](https://twitter.com/MadhavanSowrir1)<br>
+<p align="left"> <a href="https://twitter.com/MadhavanSowrir1" target="blank"><img src="https://img.shields.io/twitter/follow/MadhavanSowrir1?logo=twitter&style=for-the-badge" alt="creativeabhi13" /></a> </p>
 [![Madhavan's github stats](https://github-readme-stats.vercel.app/api?username=Madhavan1512&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)<br>
 [![Madhavan's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Madhavan1512&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)<br>
 [![Madhavan's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Madhavan1512&theme=blue-white)](https://github.com/DenverCoder1/github-readme-streak-stats)<br>
