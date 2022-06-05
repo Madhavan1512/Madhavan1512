@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **https://Madhavan1512-portfolio.github.io/Portfolio/**
 
-- 📄 Know about my experiences ([https://drive.google.com/file/d/1N557xbKHDLCtXOvOKYtiZwXCKhtkfkw4/view?usp=sharing](https://drive.google.com/file/d/1N557xbKHDLCtXOvOKYtiZwXCKhtkfkw4/view?usp=sharing))
+- 📄 Here is my resume ([https://drive.google.com/file/d/1N557xbKHDLCtXOvOKYtiZwXCKhtkfkw4/view?usp=sharing](https://drive.google.com/file/d/1N557xbKHDLCtXOvOKYtiZwXCKhtkfkw4/view?usp=sharing))
  
  <h3 align="left">Connect with me:</h3>
 <p align="left">
