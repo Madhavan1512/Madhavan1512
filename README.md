@@ -13,9 +13,9 @@
 
 - 👯 I’m looking to collaborate on **Madhavan1512**
 
-- 👨‍💻 All of my projects are available at [https://creativeabhi13.github.io/](https://creativeabhi13.github.io/)
+- 👨‍💻 All of my projects are available at [https://Madhavan1512.github.io/](https://Madhavan1512.github.io/)
 
-- 📫 How to reach me **https://abhishekkumar-portfolio.github.io/Portfolio/**
+- 📫 How to reach me **https://Madhavan1512-portfolio.github.io/Portfolio/**
 
 - 📄 Know about my experiences ([https://drive.google.com/file/d/1N557xbKHDLCtXOvOKYtiZwXCKhtkfkw4/view?usp=sharing](https://drive.google.com/file/d1N557xbKHDLCtXOvOKYtiZwXCKhtkfkw4/view?usp=sharing))
  
