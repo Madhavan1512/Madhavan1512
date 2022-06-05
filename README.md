@@ -5,7 +5,7 @@
 ![phpNyCsp5PM](https://user-images.githubusercontent.com/45940540/172034886-981991d2-f0a3-4950-b3d5-dc23765f636b.jpg)<br>
 ![](https://komarev.com/ghpvc/?username=Madhavan1512&style=for-the-badge)<br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=Madhavan1512&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)<br>
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/MadhavanSowrir1.svg?style=for-the-badgesocial&label=Follow%20%40MadhavanSowrir1)](https://twitter.com/MadhavanSowrir1)<br>
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/MadhavanSowrir1.svg?style=for-the-badge&label=Follow%20%40MadhavanSowrir1)](https://twitter.com/MadhavanSowrir1)<br>
 - 👀 I’m interested in ...<br>
 - 🌱 I’m currently learning ...<br>
 - 💞️ I’m looking to collaborate on ...<br>
