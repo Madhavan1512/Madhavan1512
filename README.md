@@ -12,9 +12,6 @@
 - 🌱 I’m currently learning **MySQL , Python , JAVA , C# , R ,Matlab**
 
 - My GitHub profile link is https://github.com/Madhavan1512/
-- 👨‍💻 All of my projects are available at [https://Madhavan1512.github.io/](https://Madhavan1512.github.io/)
-
-- 📫 How to reach me **https://Madhavan1512-portfolio.github.io/Portfolio/**
 
 - 📄 Here is my resume ([https://drive.google.com/file/d/1N557xbKHDLCtXOvOKYtiZwXCKhtkfkw4/view?usp=sharing](https://drive.google.com/file/d/1N557xbKHDLCtXOvOKYtiZwXCKhtkfkw4/view?usp=sharing))
  
