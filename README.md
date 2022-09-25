@@ -13,7 +13,7 @@
 
 - My GitHub profile link is https://github.com/Madhavan1512/
 
-- 📄 Here is my resume ([https://drive.google.com/file/d/1N557xbKHDLCtXOvOKYtiZwXCKhtkfkw4/view?usp=sharing](https://drive.google.com/file/d/1N557xbKHDLCtXOvOKYtiZwXCKhtkfkw4/view?usp=sharing))
+- 📄 Here is my resume ([https://drive.google.com/file/d/1N557xbKHDLCtXOvOKYtiZwXCKhtkfkw4/view?usp=sharing](https://drive.google.com/file/d/197fGszDVx66Q7lhvo56iwSaQi9DPfyjt/view?usp=sharing))
  
  <h3 align="left">Connect with me:</h3>
 <p align="left">
